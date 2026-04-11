@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.009" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.005" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/chiranth/devops/MyMavenApp/target/surefire/surefirebooter11222441112441422338.jar /home/chiranth/devops/MyMavenApp/target/surefire 2026-02-23T09-38-41_429-jvmRun1 surefire7173079329699491376tmp surefire_016112119582629053266tmp"/>
+    <property name="sun.java.command" value="/home/chiranth/devops/MyMavenApp/target/surefire/surefirebooter3390700806261830024.jar /home/chiranth/devops/MyMavenApp/target/surefire 2026-03-09T11-09-10_446-jvmRun1 surefire10437810557726381381tmp surefire_03863342781263975345tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/chiranth/devops/MyMavenApp/target/test-classes:/home/chiranth/devops/MyMavenApp/target/classes:/home/chiranth/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,12 +32,12 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/chiranth/devops/MyMavenApp/target/surefire/surefirebooter11222441112441422338.jar"/>
+    <property name="surefire.real.class.path" value="/home/chiranth/devops/MyMavenApp/target/surefire/surefirebooter3390700806261830024.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.30+7-post-Ubuntu-1ubuntu122.04"/>
     <property name="user.name" value="chiranth"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="6.8.0-94-generic"/>
+    <property name="os.version" value="6.8.0-101-generic"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testApp" classname="com.example.AppTest" time="0.001"/>
+  <testcase name="testApp" classname="com.example.AppTest" time="0"/>
 </testsuite>
